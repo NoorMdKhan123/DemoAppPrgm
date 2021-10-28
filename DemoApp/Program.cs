@@ -6,7 +6,13 @@ namespace DemoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("WElcome to BL");
+
+
+        }
+        public void Dem()
+        {
+            Console.WriteLine("WElcome to session");
         }
     }
 }
