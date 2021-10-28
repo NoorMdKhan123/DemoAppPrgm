@@ -14,5 +14,9 @@ namespace DemoApp
         {
             Console.WriteLine("WElcome to session");
         }
+        public void DemTem()
+        {
+            Console.WriteLine("Welcome to VS code");
+        }
     }
 }
